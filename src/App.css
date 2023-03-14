@@ -1,0 +1,123 @@
+/* .flex-container{
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+} */
+.rectangle {
+  width: 1156px;
+  height: 72px;
+  padding: 2px 2px 2px 2px;
+  border-radius: 8px;
+  border: 1px solid #d4d4d4;
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+}
+.heading{
+  width: 211px;
+  height: 72px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Barlow';
+  font-weight: 500;
+  color: #101820;
+  text-align: left;
+  line-height: normal;
+  padding: 20px;
+}
+
+#part-number {
+  height: 61px;
+  background-color: #ffffff;
+  flex-grow: 1;
+}
+#minimum-qty-order-in {
+  height: 61px;
+  background-color: #ffffff;
+}
+#quantity {
+  width: 356px;
+  height: 61px;
+  background-color: #ffffff;
+}
+.another-part
+  {
+    width: 170px;
+    height: 40px;
+    padding: 0px 24px 0px 24px;
+    border-radius: 4px;
+    background-color: #009fbd;
+    box-sizing: border-box;
+    font-family: 'Barlow';
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    line-height: normal;
+    border-color: #009fbd;
+    margin: 20px;
+}
+#light-grey {
+  width: 1156px;
+  height: 604px;
+  padding: 2px 2px 2px 2px;
+  /* border-radius: 8px; */
+  border: 1px solid #d4d4d4;
+  background-color: #fafafa;
+  box-sizing: border-box;
+}
+.who-is-the-end-custo {
+  width: 198px;
+  height: 22px;
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Barlow';
+  font-weight: 500;
+  color: #101820;
+  text-align: left;
+  line-height: normal;
+  margin: 10px;
+  display: block;
+}
+#add-different-end-cu {
+  width: 265px;
+  height: 22px;
+  padding: 0px 0px 0px 0px;
+  border: 1px solid #d4d4d4;
+  font-family: 'Barlow';
+  font-weight: 500;
+  color: #636363;
+  text-align: left;
+  line-height: normal;
+  display: float;
+  margin: 20px;
+}
+.big{
+  height: 200px;
+}
+#kevin-prince-kevin-p {
+  padding: 12px 12px 20px 12px;
+  border-radius: 4px;
+  border: 1px solid #d4d4d4;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  font-family: 'Barlow';
+  font-weight: 500;
+  color: #636363;
+  text-align: left;
+  line-height: 28px;
+}
+textarea{
+  height: 144px;
+  width: 356px;
+  border-radius: 4px;
+  border: 1px solid #d4d4d4;
+}
+
+#target-price-unit {
+  background-color: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  font-family: 'Barlow Semi Condensed';
+  font-weight: 500;
+  color: #636363;
+  text-align: left;
+}
